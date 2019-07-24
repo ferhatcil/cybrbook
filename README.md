@@ -1,8 +1,8 @@
 # Cybrbook Vulnerable Web Application (CVWA)
 
-[![N|CybrbookLogo](https://i.hizliresim.com/lQ3v8B.png)](https://github.com/ferhatcil/cybrbook/)
+[![N|CybrbookLogo](https://raw.githubusercontent.com/ferhatcil/cybrbook/master/img/readme/logo.png)](https://github.com/ferhatcil/cybrbook/)
 
-[![N|Cybrbook](https://i.hizliresim.com/and2Rg.png)](https://github.com/ferhatcil/cybrbook/)
+[![N|Cybrbook](https://raw.githubusercontent.com/ferhatcil/cybrbook/master/img/readme/cybrbook1.PNG)](https://github.com/ferhatcil/cybrbook/)
 
 Cybrbook uygulaması kendini web güvenliği alanında geliştirmek isteyen kişiler için hazırlanmıştır.Uygulama php ile kodlanmış kodlarken Spagetti methodu uygulanmıştır. Uygulama üzerinde çeşitli bir çok zafiyet barınmaktadır. Bu zafiyetlerden bazıları şunlardır :
 
@@ -26,11 +26,11 @@ Uygulama Windows 10 - xamp üzerinde aşağıdaki versiyonlar ile sorunsuz çal�
 
 # Uygulama içi görseller
 
-[![N|Cybrbook](https://i.hizliresim.com/86PDoW.png)](https://github.com/ferhatcil/cybrbook/)
+[![N|Cybrbook](https://raw.githubusercontent.com/ferhatcil/cybrbook/master/img/readme/cybrbook2.PNG)](https://github.com/ferhatcil/cybrbook/)
 
-[![N|Cybrbook](https://i.hizliresim.com/DOB4qm.png)](https://github.com/ferhatcil/cybrbook/)
+[![N|Cybrbook](https://raw.githubusercontent.com/ferhatcil/cybrbook/master/img/readme/cybrbook3.PNG)](https://github.com/ferhatcil/cybrbook/)
 
-[![N|Cybrbook](https://i.hizliresim.com/mX41ZZ.png)](https://github.com/ferhatcil/cybrbook/)
+[![N|Cybrbook](https://raw.githubusercontent.com/ferhatcil/cybrbook/master/img/readme/cybrbook4.PNG)](https://github.com/ferhatcil/cybrbook/)
 
 #License
 ----
